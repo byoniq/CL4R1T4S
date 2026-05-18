@@ -1,3 +1,5 @@
+> **Fork notice:** This is a fork of [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S). For upstream community support, feature discussions, and contributions to the original project, visit the upstream repository. Issues specific to this fork can be opened [here](https://github.com/byoniq/CL4R1T4S/issues).
+
 # CL4R1T4S
 
 AI SYSTEMS TRANSPARENCY AND OBSERVABILITY FOR ALL! Full extracted system prompts, guidelines, and tools from OpenAI, Google, Anthropic, xAI, Perplexity, Cursor, Windsurf, Devin, Manus, Replit, and more – virtually all major AI models + agents! 
